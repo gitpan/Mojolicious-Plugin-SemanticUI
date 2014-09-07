@@ -1,14 +1,14 @@
 ---
 abstract: unknown
 author:
-  - 'A Good Programmer <nospam@cpan.org>'
+  - "Ð\x9AÑ\x80Ð°Ñ\x81Ð¸Ð¼Ð¸Ñ\x80 Ð\x91ÐµÑ\x80Ð¾Ð² <berov@cpan.org>"
 build_requires:
   ExtUtils::MakeMaker: '0'
 configure_requires:
   ExtUtils::MakeMaker: '0'
 dynamic_config: 1
 generated_by: 'ExtUtils::MakeMaker version 6.84, CPAN::Meta::Converter version 2.142060'
-license: unknown
+license: lgpl
 meta-spec:
   url: http://module-build.sourceforge.net/META-spec-v1.4.html
   version: '1.4'
@@ -17,6 +17,13 @@ no_index:
   directory:
     - t
     - inc
+    - t
 requires:
   Mojolicious: '5.37'
-version: '0.01'
+  perl: '5.014001'
+resources:
+  bugtracker: https://github.com/kberov/Mojolicious-Plugin-SemanticUI/issues
+  homepage: http://mojolicio.us
+  license: http://opensource.org/licenses/LGPL-3.0
+  repository: https://github.com/kberov/Mojolicious-Plugin-SemanticUI
+version: '0.02'
