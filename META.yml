@@ -19,11 +19,10 @@ no_index:
     - inc
     - t
 requires:
-  Mojolicious: '5.37'
+  Mojolicious: '5.39'
   perl: '5.014001'
 resources:
   bugtracker: https://github.com/kberov/Mojolicious-Plugin-SemanticUI/issues
-  homepage: http://mojolicio.us
   license: http://opensource.org/licenses/LGPL-3.0
   repository: https://github.com/kberov/Mojolicious-Plugin-SemanticUI
-version: '0.02'
+version: '0.03'
