@@ -20,9 +20,9 @@ no_index:
     - t
 requires:
   Mojolicious: '5.39'
-  perl: '5.014001'
+  perl: '5.010001'
 resources:
   bugtracker: https://github.com/kberov/Mojolicious-Plugin-SemanticUI/issues
   license: http://opensource.org/licenses/LGPL-3.0
   repository: https://github.com/kberov/Mojolicious-Plugin-SemanticUI
-version: '0.03'
+version: '0.04'

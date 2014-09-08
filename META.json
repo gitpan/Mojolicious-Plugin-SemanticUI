@@ -34,7 +34,7 @@
       "runtime" : {
          "requires" : {
             "Mojolicious" : "5.39",
-            "perl" : "5.014001"
+            "perl" : "5.010001"
          }
       }
    },
@@ -50,5 +50,5 @@
          "url" : "https://github.com/kberov/Mojolicious-Plugin-SemanticUI"
       }
    },
-   "version" : "0.03"
+   "version" : "0.04"
 }
