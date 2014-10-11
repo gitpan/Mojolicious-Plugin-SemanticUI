@@ -48,6 +48,8 @@ lib/Mojolicious/public/vendor/SemanticUI/definitions/modules/nag.min.css
 lib/Mojolicious/public/vendor/SemanticUI/definitions/modules/nag.min.js
 lib/Mojolicious/public/vendor/SemanticUI/definitions/modules/popup.min.css
 lib/Mojolicious/public/vendor/SemanticUI/definitions/modules/popup.min.js
+lib/Mojolicious/public/vendor/SemanticUI/definitions/modules/progress.min.css
+lib/Mojolicious/public/vendor/SemanticUI/definitions/modules/progress.min.js
 lib/Mojolicious/public/vendor/SemanticUI/definitions/modules/rating.min.css
 lib/Mojolicious/public/vendor/SemanticUI/definitions/modules/rating.min.js
 lib/Mojolicious/public/vendor/SemanticUI/definitions/modules/search.min.css
