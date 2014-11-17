@@ -25,4 +25,4 @@ resources:
   bugtracker: https://github.com/kberov/Mojolicious-Plugin-SemanticUI/issues
   license: http://opensource.org/licenses/LGPL-3.0
   repository: https://github.com/kberov/Mojolicious-Plugin-SemanticUI
-version: '0.07'
+version: '0.08'
